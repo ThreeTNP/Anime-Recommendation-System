@@ -1,2 +1,2 @@
 # Anime-Recommendation-System
-This Project use TF-IDF method to help find anime movies name.
+This Project use TF-IDF for search engine, and use ratio to find recommendation anime.
